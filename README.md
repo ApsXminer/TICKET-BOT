@@ -4,8 +4,8 @@ markdown
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&width=435&lines=CODEX+TICKET+BOT+USING+PY-CORD" alt="Typing SVG" /></a></p>
 
 <p align="center">
-<a href="https://github.com/trsaps/Ticket-bot"><img src="https://img.shields.io/github/stars/trsaps/Ticket-bot?colorA=24292f&colorB=f85149&style=for-the-badge"></a>
-<a href="https://github.com/trsaps/Ticket-bot/archive/refs/heads/main.zip"><img src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"></a>
+<a href="https://github.com/ApsXminer/TICKET-BOT"><img src="https://img.shields.io/github/stars/ApsXminer/TICKET-BOT?colorA=24292f&colorB=f85149&style=for-the-badge"></a>
+<a href="https://github.com/ApsXminer/TICKET-BOT/archive/refs/heads/main.zip"><img src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"></a>
 <a href="https://discord.gg/3xzPkYHd9U" target="blank"><img src="https://img.shields.io/discord/123456789012345678?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge"></a>
 </p>
 
@@ -26,7 +26,7 @@ markdown
 Make sure Python 3.8+ is installed.
 
 ```bash
-git clone https://github.com/trsaps/Ticket-bot.git
+git clone https://github.com/ApsXminer/TICKET-BOT.git
 cd Ticket-bot
 pip install -r requirements.txt
 ```
@@ -82,7 +82,7 @@ View screenshots on [Imgur](https://imgur.com/a/Z3wAn4c)
 
 - 💬 [Join our Discord](https://discord.gg/3xzPkYHd9U)
 - 🌟 Star the repo if you like it!
-- 🔗 [GitHub - CODE X](https://github.com/trsaps)
+- 🔗 [GitHub - CODE X](https://github.com/ApsXminer)
 
 
 
