@@ -6,7 +6,7 @@ markdown
 <p align="center">
 <a href="https://github.com/ApsXminer/TICKET-BOT"><img src="https://img.shields.io/github/stars/ApsXminer/TICKET-BOT?colorA=24292f&colorB=f85149&style=for-the-badge"></a>
 <a href="https://github.com/ApsXminer/TICKET-BOT/archive/refs/heads/main.zip"><img src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"></a>
-<a href="https://discord.gg/3xzPkYHd9U" target="blank"><img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge"></a>
+<a href="https://discord.gg/3xzPkYHd9U" target="_blank"><img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge"></a>
 </p>
 
 <p align="center">🚀 A simple and powerful Ticket Bot made with Py-Cord, easy to customize and run!</p>
